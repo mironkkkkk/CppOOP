@@ -1,6 +1,11 @@
 #include "Array.h"
 
-void Array::stillArr(int size)
+void Array::copyArr(int* arr2)
+{
+	
+}
+
+Array::stillArr(int)
 {
 	this->size = size;
 	int* arr = new int[this->size];
@@ -12,7 +17,7 @@ void Array::stillArr(int size)
 	}
 }
 
-void Array::showArr()
+Array::showArr()
 {
 	cout << "arr: ";
 	for (int i = 0; i < size; i++) {
@@ -21,7 +26,7 @@ void Array::showArr()
 	cout << endl;
 }
 
-void Array::editSizeArr(int size)
+Array::editSizeArr(int)
 {
 	int* arr = new int[this->size];
 	int* buff = new int[size];
@@ -34,7 +39,7 @@ void Array::editSizeArr(int size)
 	arr = buff;
 }
 
-void Array::sortArr()
+Array::sortArr()
 {
 	for (int i = 0; i < this->size; i++) {
 		for (int j = 0; j < this->size - 1; j++) {
@@ -47,7 +52,7 @@ void Array::sortArr()
 	}
 }
 
-void Array::minArr()
+Array::minArr()
 {
 	int* arr = new int[size];
 	int min = arr[0];
@@ -57,7 +62,7 @@ void Array::minArr()
 	cout << "min: " << min;
 }
 
-void Array::maxArr()
+Array::maxArr()
 {
 	int* arr = new int[size];
 	int max = arr[0];
@@ -67,10 +72,7 @@ void Array::maxArr()
 	cout << "max: " << max;
 }
 
-void Array::copyArr(int* arr2)
-{
-	
-}
+
 
 Array::~Array()
 {
