@@ -1,0 +1,318 @@
+dog:собака
+cat:кошка
+house:дом
+tree:дерево
+water:вода
+book:книга
+car:машина
+school:школа
+friend:друг
+family:семья
+pen:ручка
+pencil:карандаш
+paper:бумага
+chair:стул
+table:стол
+window:окно
+door:дверь
+wall:стена
+floor:пол
+ceiling:потолок
+bed:кровать
+pillow:подушка
+blanket:одеяло
+clock:часы
+mirror:зеркало
+shirt:рубашка
+trousers:брюки
+dress:платье
+shoes:обувь
+hat:шляпа
+coat:пальто
+gloves:перчатки
+scarf:шарф
+umbrella:зонт
+watch:часы наручные
+ring:кольцо
+necklace:ожерелье
+earring:серьга
+bracelet:браслет
+phone:телефон
+computer:компьютер
+laptop:ноутбук
+mouse:мышь (компьютерная)
+keyboard:клавиатура
+monitor:монитор
+printer:принтер
+camera:камера
+television:телевизор
+radio:радио
+headphones:наушники
+speaker:динамик
+refrigerator:холодильник
+stove:плита
+microwave:микроволновка
+dishwasher:посудомоечная машина
+washing machine:стиральная машина
+vacuum cleaner:пылесос
+iron:утюг
+hair dryer:фен
+toaster:toster
+coffee maker:кофеварка
+blender:блендер
+kettle:чайник
+fork:вилка
+spoon:ложка
+knife:нож
+plate:тарелка
+cup:чашка
+bowl:миска
+glass:стакан
+napkin:салфетка
+cutlery:столовые приборы
+saucepan:кастрюля
+frying pan:сковорода
+pot:горшок
+colander:дуршлаг
+oven:духовка
+grill:гриль
+freezer:морозильная камера
+pantry:кладовая
+candle:свечка
+light bulb:лампочка
+socket:розетка
+switch:выключатель
+curtain:штора
+rug:коврик
+sofa:диван
+armchair:кресло
+desk:письменный стол
+shelf:полка
+wardrobe:шкаф
+drawer:ящик
+bin:мусорное ведро
+vase:ваза
+picture:картина
+frame:рамка
+plant:растение
+flower:цветок
+pot plant:комнатное растение
+soil:почва
+garden:сад
+lawn:газон
+hedge:живая изгородь
+path:дорожка
+bench:скамейка
+swing:качели
+slide:горка
+sandbox:песочница
+pool:бассейн
+sun:солнце
+moon:луна
+star:звезда
+sky:небо
+cloud:облако
+rain:дождь
+snow:снег
+wind:ветер
+thunder:гром
+lightning:молния
+rainbow:радуга
+season:сезон
+spring:весна
+summer:лето
+autumn:осень
+winter:зима
+day:день
+night:ночь
+morning:утро
+evening:вечер
+week:неделя
+month:месяц
+year:год
+hour:час
+minute:минута
+second:секунда
+date:дата
+time:время
+calendar:календарь
+alarm clock:будильник
+weather:погода
+temperature:температура
+humidity:влажность
+pressure:давление
+climate:климат
+landscape:пейзаж
+mountain:гора
+hill:холм
+valley:долина
+plain:равнина
+forest:лес
+river:река
+lake:озеро
+sea:море
+ocean:океан
+island:остров
+beach:пляж
+desert:пустыня
+glacier:ледник
+volcano:вулкан
+earthquake:землетрясение
+tsunami:цунами
+hurricane:ураган
+tornado:торнадо
+flood:наводнение
+drought:засуха
+fire:пожар
+smoke:дым
+ash:пепел
+pollution:загрязнение
+recycling:переработка отходов
+conservation:сохранение природы
+environment:окружающая среда
+ecology:экология
+energy:энергия
+renewable energy:возобновляемая энергия
+solar power:солнечная энергия
+wind power:ветровая энергия
+hydroelectricity:гидроэнергетика
+nuclear power:ядерная энергетика
+coal:уголь
+oil:нефть
+gas:газ
+electricity:электричество
+battery:батарея
+generator:генератор
+transformer:трансформатор
+circuit:цепь
+resistor:резистор
+capacitor:конденсатор
+diode:диод
+transistor:транзистор
+microchip:микросхема
+robot:робот
+artificial intelligence:искусственный интеллект
+internet:интернет
+website:веб-сайт
+email:электронная почта
+social media:социальные сети
+blog:блог
+app:приложение
+software:программное обеспечение
+hardware:аппаратное обеспечение
+server:сервер
+network:сеть
+router:маршрутизатор
+modem:модем
+Wi-Fi:беспроводной доступ к интернету
+Bluetooth:блютус
+GPS:система глобального позиционирования
+satellite:спутник
+antenna:антенна
+cable:кабель
+USB:универсальный последовательный порт
+HDMI:интерфейс мультимедиа высокой четкости
+display:дисплей
+touchscreen:сенсорный экран
+smartphone:смартфон
+tablet:планшет
+e-book reader:устройство для чтения электронных книг
+digital camera:цифровая камера
+video game console:игровая консоль
+headset:гарнитура
+memory card:карта памяти
+flash drive:флеш-накопитель
+power bank:внешний аккумулятор
+charger:зарядное устройство
+adapter:адаптер
+extension cord:удлинитель
+surge protector:стабилизатор напряжения
+projector:проектор
+scanner:сканер
+fax machine:факс
+copier:копировальный аппарат
+calculator:калькулятор
+typewriter:пишущая машинка
+cash register:касса
+barcode scanner:сканер штрих-кодов
+point of sale system:система учета продаж
+ATM:банкомат
+credit card:кредитная карта
+debit card:дебетовая карта
+PIN code:пин-код
+bank account:банковский счет
+check:чек
+money order:денежный перевод
+currency exchange:обмен валюты
+stock market:фондовый рынок
+investment:инвестиция
+tax:налог
+insurance:страхование
+loan:заем
+mortgage:ипотека
+interest rate:процентная ставка
+budget:бюджет
+expense:расход
+income:доход
+salary:зарплата
+bonus:бонус
+commission:комиссия
+tip:чаевые
+invoice:счет-фактура
+receipt:квитанция
+contract:контракт
+agreement:соглашение
+lawyer:адвокат
+court:суд
+jury:жюри
+judge:судья
+police officer:полицейский
+crime:преступление
+theft:кража
+robbery:ограбление
+murder:убийство
+arrest:арест
+prison:тюрьма
+sentence:приговор
+fine:штраф
+bail:залог
+trial:судебное разбирательство
+evidence:доказательство
+witness:свидетель
+suspect:подозреваемый
+victim:жертва
+accident:авария
+ambulance:скорая помощь
+doctor:врач
+hospital:больница
+medicine:лекарство
+patient:пациент
+surgery:операция
+disease:болезнь
+symptom:симптом
+diagnosis:диагноз
+treatment:лечение
+prescription:рецепт
+pharmacy:аптека
+health:здоровье
+fitness:физическая форма
+exercise:упражнение
+sport:спорт
+team:команда
+game:игра
+ball:мяч
+goal:гол
+win:победа
+lose:поражение
+tie:ничья
+championship:чемпионат
+player:игрок
+coach:тренер
+stadium:стадион
+track:трек
+field:поле
+gym:тренажерный зал
+workout:тренировка
+yoga:йога
+running:бег
+swimming:плавание
